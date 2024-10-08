@@ -1,8 +1,8 @@
-# Building a Course Platform
+#Building a Course Platform
 
-## Overview
+##Overview
 
-- Cources:
+Cources:
     - Title
     - Descraption
     - Thumbnail/Image
